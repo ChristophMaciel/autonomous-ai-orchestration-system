@@ -1,5 +1,7 @@
 # Autonomous AI Orchestration System
 
+![Production Workflow](docs/assets/PROD.jpg)
+
 Production-grade autonomous AI orchestration infrastructure integrating conversational agents, workflow automation, persistent memory, scheduling systems, and real-time multi-platform communication.
 
 ---
